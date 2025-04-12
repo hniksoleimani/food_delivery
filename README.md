@@ -6,15 +6,17 @@ A web-based food delivery platform built with Django. This application allows ad
 
 ## 📸 Screenshots
 
-### 🔐 Login Page
-![Login Page](imgs/main.png)
-
-
 ### 🏠 Dashboard
-![Dashboard](media/readme/dashboard.png)
+![Dashboard](imgs/main.png)
 
 ### 🍛 Dish Management
-![Dish Management](ecommerce/imgs/main.png)
+![Dish Management](imgs/Manage.png)
+
+### 🔐 Login Page
+![Login Page](imgs/Login.png)
+
+
+
 
 ---
 
