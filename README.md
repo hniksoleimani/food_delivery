@@ -1,7 +1,5 @@
 # 🍽️ Django Food Delivery Website
 
-![Hero Banner](media/readme/banner.png)
-
 A web-based food delivery platform built with Django. This application allows admins to manage users and lets users log in, manage dishes, and personalize their profiles with images.
 
 ## 📸 Screenshots
